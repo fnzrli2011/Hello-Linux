@@ -1,0 +1,14 @@
+/home/mrcat2/Programming/C#/Incopsulation/bin/Debug/net8.0/Incopsulation
+/home/mrcat2/Programming/C#/Incopsulation/bin/Debug/net8.0/Incopsulation.deps.json
+/home/mrcat2/Programming/C#/Incopsulation/bin/Debug/net8.0/Incopsulation.runtimeconfig.json
+/home/mrcat2/Programming/C#/Incopsulation/bin/Debug/net8.0/Incopsulation.dll
+/home/mrcat2/Programming/C#/Incopsulation/bin/Debug/net8.0/Incopsulation.pdb
+/home/mrcat2/Programming/C#/Incopsulation/obj/Debug/net8.0/Incopsulation.GeneratedMSBuildEditorConfig.editorconfig
+/home/mrcat2/Programming/C#/Incopsulation/obj/Debug/net8.0/Incopsulation.AssemblyInfoInputs.cache
+/home/mrcat2/Programming/C#/Incopsulation/obj/Debug/net8.0/Incopsulation.AssemblyInfo.cs
+/home/mrcat2/Programming/C#/Incopsulation/obj/Debug/net8.0/Incopsulation.csproj.CoreCompileInputs.cache
+/home/mrcat2/Programming/C#/Incopsulation/obj/Debug/net8.0/Incopsulation.dll
+/home/mrcat2/Programming/C#/Incopsulation/obj/Debug/net8.0/refint/Incopsulation.dll
+/home/mrcat2/Programming/C#/Incopsulation/obj/Debug/net8.0/Incopsulation.pdb
+/home/mrcat2/Programming/C#/Incopsulation/obj/Debug/net8.0/Incopsulation.genruntimeconfig.cache
+/home/mrcat2/Programming/C#/Incopsulation/obj/Debug/net8.0/ref/Incopsulation.dll
